@@ -1,1 +1,2 @@
-msg: SIVA
+app:
+  msg: HELLO SIVA
